@@ -10,5 +10,8 @@
     "author_email": "programerallam@gmail.com",
     "support_url": "",
     "repository": "https://github.com/YoussefAllamS/tw-advanced-banner",
-    "components": []
+    "components": [],
+    "features": [
+        "landing-page-templates"
+    ]
 }
